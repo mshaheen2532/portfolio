@@ -2,6 +2,7 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     justify-content: center;
     align-items: center;
+    text-aling: center
 }
 
 .container {
@@ -16,4 +17,8 @@
 #image {
     width: 350px;
     height: auto;
+}
+
+#heading {
+    color: red;
 }
